@@ -1,0 +1,135 @@
+#EXTM3U $BorpasFileFormat="1"
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/F/fashion-tv-logo-C333C7A6DD-seeklogo.com.png" tvg-id="31a6e424a0dd00ee9fdfcd6dd533f5b5_420",FASHION TV
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist.m3u8?xtreamiptv.m3u8
+#EXTINF:-1,RETRO MUSIC TV
+http://stream.mediawork.cz/retrotv/retrotvHQ1/chunklist_w1652320907.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Telemax.png/200px-Telemax.png",ARGENTINA:TLX
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1527043435_b1828000_sleng.m3u8?iptvgratis?chile.m3u8
+#EXTINF:-1,COLOMBIA:Canal Capital HD
+https://mdstrm.com/live-stream-playlist/57d01d6c28b263eb73b59a5a.m3u8
+#EXTINF:-1 tvg-id="31a6e424a0dd00ee9fdfcd6dd533f5b5_992",MUSICA:M2o Tv
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?iptvgratis?chile.m3u8
+#EXTINF:-1 tvg-logo="https://spng.pinpng.com/pngs/s/407-4074508_chaula-tv-logo-chaula-tv-hd-png-download.png" tvg-id="31a6e424a0dd00ee9fdfcd6dd533f5b5_992",MUSICA:CHAU Tv
+http://video.chaula.tv/hls/live/high/playlist_high.m3u8
+#EXTINF:-1 tvg-id="31a6e424a0dd00ee9fdfcd6dd533f5b5_992",MUSICA:FS1
+http://stream.fs1.tv:8080/hls/webstream.m3u8
+#EXTINF:-1,MEXICO:MULTIMEDIOS MONTERREY
+http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8?CeceGeek.m3u8
+#EXTINF:-1,TeleSafor | HD
+http://video.telesafor.com/hls/video_high.m3u8
+#EXTINF:-1,TG4
+http://csm-e.cds1.yospace.com/csm/live/74246610.m3u8
+#EXTINF:-1,MEXICO:Multimedios Laguna
+http://mdstrm.com/live-stream-playlist_1200/57bf686a61ff39e1085d43e1.m3u8?
+#EXTINF:-1,COSTA RICA:TICAVISION
+http://k3.usastreams.com:1935/HBTV/HBTV/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://es.live-tv-channels.org/pt-data/uploads/logo/cr-extreme-tv-4084-300x225.jpg" tvg-id="31a6e424a0dd00ee9fdfcd6dd533f5b5_416",EXTREMA TV HD
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://vivotvhd.com/img/cha/1535.gif",WOW TV
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
+#EXTINF:-1,Canal 10
+http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
+#EXTINF:-1,ATB
+http://186.121.206.197/live/daniel/index.m3u8
+#EXTINF:-1 tvg-logo="https://bhtv.pe/wp-content/uploads/2020/08/descarga-4.jpg",CANAL BHTV
+http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/media_w554966584.m3u8
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/de3fb1f001e5d85b919f7a39170f4cb8.png",MICRO VISION
+http://190.103.183.24:1935/live/MicroHD/media_w1864019893.m3u8
+#EXTINF:-1 tvg-logo="https://mma.prnewswire.com/media/604206/Zee_Mundo_Logo.jpg?p=publish&w=200",ZEE MUNDO HD
+https://y5w8j4a9.ssl.hwcdn.net/mundohd/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-id="31a6e424a0dd00ee9fdfcd6dd533f5b5_424",France 24
+http://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8
+#EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://www.tvargentinahd.com/img/26canal.png",CANAL 26 HD
+http://200.115.193.177/live/26hd-720/.m3u8
+#EXTINF:-1 group-title="ARGENTINA" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2019/11/Canal-10-TV-Rio-Negro-en-vivo-Online-100x70.png" tvg-id="31a6e424a0dd00ee9fdfcd6dd533f5b5_8",TELEVISION RIONEGRINA
+http://panel.dattalive.com:1935/8204/8204/playlist.m3u8
+#EXTINF:-1 group-title="ARGENTINA" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/06/Canal-9-Multivision-en-vivo-Online-100x70.png",CANAL 9 SALTA HD
+http://panel.dattalive.com:1935/8250/8250/playlist.m3u8?iptvgratis?chile.m3u8
+#EXTINF:-1 group-title="ARGENTINA" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/04/musictop-100x70.png" tvg-id="31a6e424a0dd00ee9fdfcd6dd533f5b5_37",MUSIC TOP
+http://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
+#EXTINF:-1 group-title="ARGENTINA" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/10/Litus-TV-en-vivo-Online-100x70.png",LITUS TV HD
+http://192.99.38.174:1935/litustv/ngrp:litustv_all/playlist.m3u8
+#EXTINF:-1 group-title="ARGENTINA" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/10/24-7-Canal-de-Noticias-Neuquen-en-vivo-Online-100x70.png",24/7 NEUQUEN NOTICIAS
+http://59c5c86e10038.streamlock.net:1935/6605140/6605140/playlist.m3u8
+#EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTPsjc9HeCRmx5_9KRjetgGhnfxtecRGtSithLfwINpzcr2mEFbHg7y8EnbxwOPOTQLuU&usqp=CAU",CANAL 3 HD (EL TRECE)
+https://59d52c5a5ce5e.streamlock.net:4443/canal3rosario/ngrp:canal3rosario_all/playlist.m3u8
+#EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://vivotvhd.com/img/cha/916.gif",CANAL 13 HD SAN LUIS
+https://5975e06a1f292.streamlock.net:4443/sanluistv/ngrp:sanluistv_all/chunklist_w1936979043_b1461248.m3u8
+#EXTINF:-1 group-title="ARGENTINA" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/10/5R-TV-en-vivo-Online-1-100x70.png",5R TV SANTA FE
+http://api.new.livestream.com/accounts/22636012/events/8242619/live.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnr3VVDPfKBstLMvZk8UUMyqwvmsDbTEDY3vBy8dU0aq6fbisKyDnnvw6EVLH4WWqa1hE&usqp=CAU",CANAL 7 CATAMARCA TV PUBLICA
+https://5f700d5b2c46f.streamlock.net/catamarcatelevision/catamarcatelevision/chunklist_w933277331.m3u8
+#EXTINF:-1 group-title="ARGENTINA" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/10/Canal-9-Comodoro-en-vivo-Online-100x70.png",CANAL 9 COMODORO RIVADAVIA
+https://live.canalnueve.tv/canal.m3u8
+#EXTINF:-1 group-title="ARGENTINA" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/09/Canal-10-Cordoba-en-vivo-Online-100x70.png",CANAL 10 CORDOBA
+https://vcp.myplaytv.com/canal10cba/smil:canal10cba.smil/chunklist_w1175896354_b1500000_slen.m3u8
+#EXTINF:-1 group-title="ARGENTINA" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/10/Canal-5-TV-Corrientes-en-vivo-Online-100x70.png",CANAL 5 CORRIENTES
+http://www.coninfo.net:1935/tvcinco/live1/chunklist_w1750695360.m3u8
+#EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://www.tvargentinahd.com/img/televida.png",CANAL 9 MENDOZA TELEVIDA
+https://5b3050bb1b2d8.streamlock.net/viviloendirecto2/canal9/chunklist_w1403438062.m3u8
+#EXTINF:-1 group-title="ARGENTINA" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/06/El-10-TV-Salta-en-vivo-Online-100x70.png",CANAL 10 SALTA
+https://clientes.videostreaming.ar:19360/openradio2/openradio2.m3u8
+#EXTINF:-1 group-title="ARGENTINA" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/10/Canal-6-Moreno-en-vivo-Online-100x70.png",CANAL 6 MORENO
+http://streaming.arcast.com.ar:1935/canal6moreno/canal6moreno/chunklist_w2009406480.m3u8
+#EXTINF:-1 group-title="ARGENTINA" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/10/Madryn-TV-Canal-12-en-vivo-Online-100x70.png",CANAL 12 PUERTO MADRYN
+https://5f700d5b2c46f.streamlock.net/madryntv/madryntv/chunklist_w54530275.m3u8
+#EXTINF:-1 group-title="ARGENTINA" tvg-logo="C:/Users/Kuazar Samsung/Videos/LOGOS TV/canal-2.jpg",TELPIN CANAL 2 HD
+https://wowza.telpin.com.ar:1935/telpintv/smil:ttv.stream.smil/chunklist_w444796069_b1344100_sleng.m3u8
+#EXTINF:-1 group-title="ARGENTINA" tvg-logo="C:/Users/Kuazar Samsung/Videos/LOGOS TV/aire-de-santa-fe.jpg",AIRE DE SANTA FE
+https://sc1.stweb.tv/airedigital/live/chunklist_w379037128.m3u8
+#EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://www.tvargentinahd.com/img/13max.png",13 MAX HD
+http://coninfo.net:1935/13maxhd/live_720p/chunklist_w775219248.m3u8
+#EXTINF:-1 group-title="ARGENTINA" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/05/Canal-4-Jujuy-en-vivo-Online-100x70.png",CANAL 4 JUJUY
+https://5cd577a3dd8ec.streamlock.net/canal4/smil:manifest.smil/chunklist_w220619513_b76000.m3u8
+#EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Am%C3%A9rica_Tucum%C3%A1n_Canal_28.1_%282019-1%29.png/120px-Am%C3%A9rica_Tucum%C3%A1n_Canal_28.1_%282019-1%29.png",AMERICA TUCUMAN HD
+http://45.6.4.154/americatuc/vivo.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://image.winudf.com/v2/image1/Y29tLmFwcC50dWN1bWFudHZkaWdpdGFsX2ljb25fMTYxMjM1NTQ0N18wMTk/icon.png?w=170&fakeurl=1",LA VOZ TUCUMAN
+https://srv1.zcast.com.br/lavozdetucuman/lavozdetucuman/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Telefe_Rosario.png/120px-Telefe_Rosario.png",TELEFE ROSARIO
+http://telefewhitehls-lh.akamaihd.net/i/whitelist_hls@302302/master.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTexwkYSNwWbkex7c4sxikApBmZyXTmzHDOV02yqUkhv_sXPZJl7w25vcFRwDbGny3rsG8&usqp=CAU",9 LINK HD (EL TRECE)
+http://www.coninfo.net:1935/9linklive/live/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://www.tvargentinahd.com/img/elnuevehd.png",CANAL 9 HD BS AS
+https://ar-elnueve-elnueve-live.ned.media/live-720.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjE3MjAwMjI5LCJzZXNzaW9uIjoiMTkxLjgyLjIyOS4xODEiLCJ3aGl0ZWxpc3QiOlsiMTkxLjgyLjIyOS4xODEiXX0sInNpZ25hdHVyZSI6IjJmMmE3YzUwYTIyZjM3MzE2N2JlYjYyYzkyNTc3NzQ3YTZjNjMzZmYifQ%3D%3D
+#EXTINF:-1 tvg-logo="https://www.awn.com/sites/default/files/styles/inline_medium/public/image/featured/1015560-planeta-junior-and-dreamworks-animation-strike-distribution-deal.jpg?itok=gi2BEGFO" tvg-id="31a6e424a0dd00ee9fdfcd6dd533f5b5_388",PLANETA JUNIOR
+https://deaplaneta-planetakidz-1-es.samsung.wurl.com/manifest/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/76b12f_b725806aac4c416da697ccf6a5c6dd83~mv2.png/v1/fit/w_2500,h_1330,al_c/76b12f_b725806aac4c416da697ccf6a5c6dd83~mv2.png",PEQUERADIO TV
+http://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/El_Chavo_Animado_-_logo.svg/250px-El_Chavo_Animado_-_logo.svg.png" tvg-id="31a6e424a0dd00ee9fdfcd6dd533f5b5_488",EL CHAVO TV
+https://videostreaming.cloudserverlatam.com:443/chavotv/chavotv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1267911667733708800/0mp3ZjRJ.jpg",CSTV
+https://videostreaming.cloudserverlatam.com:443/cloudservertv/cloudservertv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/MYFxsrAJcHOLXu4lJ-jIcGk4pUdOH4BVrdZOw7ceYG1oImi46CUAqBBOpy57aGnuapQ=s200" tvg-id="31a6e424a0dd00ee9fdfcd6dd533f5b5_42",CINE CLUB
+https://Stmv1.zcastbr.com/cineclubtv/cineclubtv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1,LATINOS UP! TV
+https://panel.streamingtv-mediacp.online:1936/8044/8044/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/a25d309560cb8153a2292e189cba08bbcfce993ef9a4a729963d93484a6a24bc.png",TELERED HD SERIES
+http://k4.usastreams.com/ARBtv/teleplus/chunklist_w499579538.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://serenotv.com/wp-content/uploads/2020/09/Canal-frecuencia-musical-tv-1-mundo-ecuador-en-vivo-554x328.jpg",FMTV 1 HD
+https://cloud2.streaminglivehd.com:1936/8070/8070/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://serenotv.com/wp-content/uploads/2020/09/Canal-frecuencia-musical-movies-tv-en-vivo.jpg",FMTV 2 HD MOVIES
+https://rtmp02.portalexpress.es/fmtvmovies2/fmtvmovies2/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://serenotv.com/wp-content/uploads/2020/09/Canal-Cadenasuper-cine-tv-en-vivo.jpg",FMTV 3 HD SUPERCINE
+https://rtmp02.portalexpress.es/fmtv3/fmtv3/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://serenotv.com/wp-content/uploads/2020/09/Canal-ac-vision-en-vivo.jpg",ACV MOVIES HD
+https://rtmp02.portalexpress.es/acvisionazogues/acvisionazogues/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://media-exp1.licdn.com/dms/image/C560BAQEz4AS5GGuezQ/company-logo_200_200/0/1548844624007?e=2159024400&v=beta&t=cvdZirTk9n8wuYQWPvpuGY-n-Vo7yhK-AHWVV1PJA0Q",G VISION
+https://tls.cdnz.cl/escgabrielamistral/live/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Logotipo_de_Televisi%C3%B3n_Nacional_de_Chile_%282004-2016%29.svg/120px-Logotipo_de_Televisi%C3%B3n_Nacional_de_Chile_%282004-2016%29.svg.png",TVN CHILE
+http://unlimited10-cl.dps.live/tvn/tvn.smil/tvn/livestream1/chunks.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbopA4Jd6uc-2pVI9T9liKvOrtbYSDWh3Q9SjvCA3SdR9Buwt94Q1ZWT-gcpkec3OM7Mk&usqp=CAU",AMERICA TV HD CHILE
+https://stmv1.zcastbr.com/americatvchile/americatvchile/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://www.tvargentinahd.com/img/deportv.png",DEPORTV
+https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/chunklist_w2006060733.m3u8
+#EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/28/Telefe_Tucum%C3%A1n_%282018%29.png/revision/latest/scale-to-width-down/78?cb=20190818033219&path-prefix=es",TELEFE HD TUCUMAN
+https://tlfcapitalhls-lh.akamaihd.net/i/canal8tucuman_1@787002/master.m3u8?hdnea=st=1617029776~exp=1617206176~acl=/i/canal8tucuman_1@787002/*~hmac=298fa626d41b2fd639fe3ae48705a2d7a8abee7add876f109072a7ab4ff0f7a7
+#EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://www.tvargentinahd.com/img/eltrece.png",EL TRECE HD BS AS
+https://eltrecelive.vodgc.net/eltrecetv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://www.tvargentinahd.com/img/tv-publica.png",CANAL 7 TV PUBLICA BS AS
+https://www.youtube.com/watch?v=YCfxapLqklk
+#EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://www.tvargentinahd.com/img/tn.png",TN NOTICIAS BS AS
+https://www.youtube.com/watch?v=wHn1_QVoXGM
+#EXTINF:-1 group-title="ARGENTINA" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/02/Cronica-TV-en-vivo-Online-100x70.png",CRONICA TV HD BS AS
+https://www.youtube.com/watch?v=wVCz7byzADU
+#EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://www.tvargentinahd.com/img/siete.png",CANAL 7 HD MENDOZA
+https://www.youtube.com/watch?v=2BVScMo998s
